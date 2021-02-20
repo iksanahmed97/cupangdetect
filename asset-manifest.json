@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ikancupang/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ikancupang/static/js/main.5a7c49ea.chunk.js",
+    "main.js.map": "/ikancupang/static/js/main.5a7c49ea.chunk.js.map",
+    "runtime-main.js": "/ikancupang/static/js/runtime-main.a6739e11.js",
+    "runtime-main.js.map": "/ikancupang/static/js/runtime-main.a6739e11.js.map",
+    "static/js/2.af4071b5.chunk.js": "/ikancupang/static/js/2.af4071b5.chunk.js",
+    "static/js/2.af4071b5.chunk.js.map": "/ikancupang/static/js/2.af4071b5.chunk.js.map",
+    "static/js/3.e369afaf.chunk.js": "/ikancupang/static/js/3.e369afaf.chunk.js",
+    "static/js/3.e369afaf.chunk.js.map": "/ikancupang/static/js/3.e369afaf.chunk.js.map",
+    "index.html": "/ikancupang/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ikancupang/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.af4071b5.chunk.js.LICENSE.txt": "/ikancupang/static/js/2.af4071b5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ikancupang/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6739e11.js",
+    "static/js/2.af4071b5.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.5a7c49ea.chunk.js"
+  ]
+}
